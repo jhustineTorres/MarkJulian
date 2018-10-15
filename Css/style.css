@@ -2,5 +2,12 @@
     background-color: #a9069c;
 }
 #navi{
+    margin: 0;
     max-width: 100%;
+    background-color: #a9069c;
+    color: solid white;
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 20px;
+    border-bottom: none;
 }
