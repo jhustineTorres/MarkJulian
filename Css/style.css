@@ -11,3 +11,12 @@
     padding-top: 20px;
     border-bottom: none;
 }
+#dtr{
+    background-color: #f250e5;
+}
+#dtrs{
+    background-color: #f7a0f0;
+    margin: 15px auto 15px 60px ;
+    /* pag may laman na tanggalin mo yung height nato */
+    height: 250px;
+}
